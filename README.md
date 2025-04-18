@@ -8,6 +8,22 @@
 
 ---
 
+
+### 🛠️ Latest Production Project
+#### **🧠 Braille E-learning Platform**
+An accessible web platform designed to teach visually impaired users how to read and write Braille.  
+Built using **React**, **Django**, **MySQL**, **Redis**, and **Docker**, it supports:
+- Instructor-led courses with video, audio, and Braille content
+- Student progress tracking and feedback
+- Support for Arabic language and screen readers
+- Deployed on **Hostinger VPS**
+
+> 🔗 _[[Live Demo](https://braille-learn.com/)]_  
+> 📁 _[GitHub Repo (Private )]_
+
+
+---
+
 ### 📊 GitHub Stats
 ![Yousef's GitHub stats](https://github-readme-stats.vercel.app/api?username=11Jou&show_icons=true&theme=radical)
 
