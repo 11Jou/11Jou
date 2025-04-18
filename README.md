@@ -18,7 +18,7 @@ Built using **React**, **Django**, **MySQL**, **Redis**, and **Docker**, it supp
 - Support for Arabic language and screen readers
 - Deployed on **Hostinger VPS**
 
-> 🔗 _[[Live Demo](https://braille-learn.com/)]_  
+> 🔗 _[[Platform Link](https://braille-learn.com/)]_  
 > 📁 _[GitHub Repo (Private )]_
 
 
