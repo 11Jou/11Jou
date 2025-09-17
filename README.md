@@ -24,9 +24,6 @@ Built using **React**, **Django**, **MySQL**, **Redis**, and **Docker**, it supp
 
 ---
 
-### 📊 GitHub Stats
-![Yousef's GitHub stats](https://github-readme-stats.vercel.app/api?username=11Jou&show_icons=true&theme=radical)
-
 ---
 
 ### 💬 Languages:
