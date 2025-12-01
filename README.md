@@ -1,9 +1,7 @@
 # Hi there 👋, I'm Youssef  
 ### Software Engineer From 🇪🇬 Egypt 🌍
 
-- 🔭 I’m currently working on **Braille E-learning Platform**
-- 🌱 I’m currently learning **Spring Boot**
-- 💬 Ask me about **Next.js, Django, Redis, Docker**
+- 💬 Ask me about **Next.js, Django,Java Spring Boot, Redis, Docker**
 - 📫 How to reach me: youssefmuhamed634@gmail.com
 
 ---
