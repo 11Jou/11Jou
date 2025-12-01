@@ -10,15 +10,14 @@
 
 
 ### 🛠️ Latest Production Project
-#### **🧠 Braille E-learning Platform**
-An accessible web platform designed to teach visually impaired users how to read and write Braille.  
-Built using **React**, **Django**, **MySQL**, **Redis**, and **Docker**, it supports:
-- Instructor-led courses with video, audio, and Braille content
-- Student progress tracking and feedback
+#### **🧠 Braille Dot Desktop Application**
+Desktop application and it's website designed to help individuals learn, write, translate and print Braille documents effortlessly. Built with accessibility at its core, the app provides a seamless experience for anyone interested in understanding Braille. 
+Built using **C#**, **Avalonia**, **Php Laravel** it supports:
+- Windows, MacOS and linux
 - Support for Arabic language and screen readers
-- Deployed on **Hostinger VPS**
+- Deploy it's website on **Hostinger VPS**
 
-> 🔗 _[[Platform Link](https://braille-learn.com/)]_  
+> 🔗 _[[Website Link](https://braille-dot.com/)]_  
 > 📁 _[GitHub Repo (Private )]_
 
 
