@@ -42,6 +42,7 @@ Built using **Java Spring Boot**, **React Admin**, **Flutter** it supports:
 
 ### ⚙️ Frameworks & Libraries:
 ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
+![FastApi](https://img.shields.io/badge/-FastApi-092E20?logo=fastapi&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=spring-boot&logoColor=white)
 ![React](https://img.shields.io/badge/-React-20232A?logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)
